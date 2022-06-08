@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/QuantClub/static/css/main.982884e5.css",
-    "main.js": "/QuantClub/static/js/main.01847764.js",
+    "main.js": "/QuantClub/static/js/main.d23505ce.js",
     "static/media/bg.jpg": "/QuantClub/static/media/bg.cefc841c7c57b8782efc.jpg",
     "static/media/about.jpg": "/QuantClub/static/media/about.ba693a7092e7154011d1.jpg",
     "static/media/favicon1.png": "/QuantClub/static/media/favicon1.ffd770333f0890d6a067.png",
     "index.html": "/QuantClub/index.html",
     "main.982884e5.css.map": "/QuantClub/static/css/main.982884e5.css.map",
-    "main.01847764.js.map": "/QuantClub/static/js/main.01847764.js.map"
+    "main.d23505ce.js.map": "/QuantClub/static/js/main.d23505ce.js.map"
   },
   "entrypoints": [
     "static/css/main.982884e5.css",
-    "static/js/main.01847764.js"
+    "static/js/main.d23505ce.js"
   ]
 }
